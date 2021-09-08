@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    height:70px;
+    width:100%;
+    margin-bottom:25px;  
+    justify-content: space-between;
+    .options {
+        display: flex;
+        .option {
+            padding:10px 15px;
+            text-decoration: none;
+            color:BLACK;
+        }
+    }
+    
+}

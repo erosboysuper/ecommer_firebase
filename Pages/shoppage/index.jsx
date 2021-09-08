@@ -1,5 +1,6 @@
 import SHOP_DATA from "../../shop.data.js";
 import CollectionPreview from "../../Components/collection-preview";
+import Header from "../../Components/header";
 const ShopPage = () => {
   return (
     <div>
